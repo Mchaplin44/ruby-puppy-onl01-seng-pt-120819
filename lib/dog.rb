@@ -8,5 +8,5 @@ class Dog
       @@all
     end
   end
-  
+  @@all = []
 end
