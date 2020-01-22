@@ -1,7 +1,7 @@
 class Dog
   
   attr_accessor :name
-  def intialize()
+  def intialize
       @@all = []
     @name = name
     @@all<< self
