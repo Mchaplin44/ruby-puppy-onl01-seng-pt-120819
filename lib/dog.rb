@@ -4,9 +4,9 @@ class Dog
   def intialize(name)
     @name = name
     @@all<< self
+    end
     def self.all 
       @@all
-    end
   end
   @@all = []
 end
