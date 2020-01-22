@@ -18,7 +18,7 @@ def self.all
 			puts dog.name
 			  end 
 			  def self.print_all
-			    puts self.all
+			    puts dog.name
 		  end
 		end
 		
